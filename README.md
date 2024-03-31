@@ -8,4 +8,4 @@ In this Project, I Learned,
    background-size: cover;
    background-position: center;
    ```
-2. Use of clearInterval Method. 
+2. Use of `clearInterval()` Method. 
