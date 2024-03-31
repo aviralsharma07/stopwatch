@@ -8,4 +8,7 @@ In this Project, I Learned,
    background-size: cover;
    background-position: center;
    ```
-2. Use of `clearInterval()` Method. 
+2. Use of `setInterval` and `clearInterval()` Method:
+   - setInterval() repeatedly executes the specified function at regular intervals until it is stopped with clearInterval().
+   - To stop execution in setInterval(), you need to call clearInterval() with the ID returned by setInterval().
+   - Use setInterval() when you need to execute a function repeatedly at fixed intervals, such as updating the time on a clock or creating animations.
